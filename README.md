@@ -1,5 +1,5 @@
 
-# [Joulescope® LabVIEW client]
+# [Joulescope™ LabVIEW™ client]
 
 Welcome to the Joulescope LabVIEW client!  This client works with the 
 [pyjoulescope_server](https://github.com/jetperch/pyjoulescope_server) to 
@@ -49,3 +49,7 @@ All files should be considered to have the following header:
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ```
+
+Trademark notices:
+* Joulescope is a trademark of Jetperch LLC.
+* LabVIEW is a trademark of National Instruments Corp.
