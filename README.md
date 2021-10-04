@@ -1,5 +1,5 @@
 
-# [Joulescope™ LabVIEW™ client]
+# Joulescope™ LabVIEW™ client
 
 Welcome to the Joulescope LabVIEW client!  This client works with the 
 [pyjoulescope_server](https://github.com/jetperch/pyjoulescope_server) to 
@@ -25,7 +25,7 @@ for more details.
 
 You should see something like:
 
-![doc/screenshot_01.jpg]
+![Joulescope LabVIEW client screenshot](doc/screenshot_01.jpeg)
 
 
 ## License
